@@ -1,5 +1,8 @@
 # 🎮 Calculadora de Partidas Rankeadas
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd3098f1-026e-4ee2-a173-094d483514e6" />
+</p>
 
 Bem-vindo à **Calculadora de Partidas Rankeadas**, um mini-projeto em Python que simula o sistema de níveis de jogadores com base no **saldo entre vitórias e derrotas**. Um jeito divertido de praticar lógica de programação com uma pitada de competitividade 🎯
 
